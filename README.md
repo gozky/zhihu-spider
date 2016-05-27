@@ -5,6 +5,8 @@ a simple spider for zhihu in python
 * BeautifulSoup
 * requests
 
-### auth.py —— 模拟登录知乎
+### auth.py  
+模拟登录知乎
 
-### homepage.py —— 抓取某个个人主页的信息
+### homepage.py  
+抓取某个个人主页的信息
