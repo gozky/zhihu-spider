@@ -1,5 +1,5 @@
 # zhihu-spider
-a simple spider for zhihu in python  
+一个简单的知乎爬虫程序（python） 
 
 ### 依赖包 
 * BeautifulSoup
